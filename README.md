@@ -1,13 +1,60 @@
-# 👋 Hi, I'm Divine Birasa!
 
-## 🚀 About Me
-I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
+##  Hello, I’m Divine
 
-## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript, HTML, CSS
-- **Tools:** Git, GitHub, VS Code, npm, Webpack
+Building clean, scalable software with a strong focus on **Machine Learning, AI engineering**, and modern web technologies.
+Currently training to design and integrate **production-ready ML and AI systems** alongside robust backend and frontend applications.
 
-## 🌱 Currently Learning
-- Advanced React concepts
-- State management with Redux
-- Backend basics with Node.js
+
+---
+
+##  Tech Stack
+
+### *Machine Learning & AI*
+
+Python, NumPy, Pandas
+TensorFlow / Keras, Scikit-learn
+Data preprocessing, CNNs, computer vision
+Regression & classification, model evaluation
+Transfer learning & fine-tuning
+
+### *Frontend*
+
+React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3
+
+### *Backend*
+
+NestJS, Express.js, TypeScript, FastAPI
+
+### *Mobile*
+
+Flutter, Dart
+
+### *Databases & ORM*
+
+PostgreSQL, MongoDB, Firebase
+
+### *Tools & Others*
+
+Git, GitHub, Jupyter Notebook, Bash
+
+### *Currently leveling up in*
+
+Artificial Intelligence Engineering
+Generative AI & LLMs
+Clean architecture & scalable system design
+
+---
+
+##  Connect with Me
+
+[Email](https://www.linkedin.com/in/birasadivine)
+[LinkedIn](https://www.linkedin.com/in/birasadivine)
+
+
+---
+
+###  GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=BirasaDivine\&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BirasaDivine\&layout=compact\&theme=radical)
+
