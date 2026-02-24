@@ -29,7 +29,7 @@ NestJS, Express.js, TypeScript, FastAPI
 
 Flutter, Dart
 
-### *Databases & ORM*
+### *Databases
 
 PostgreSQL, MongoDB, Firebase
 
